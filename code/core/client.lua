@@ -1,1 +1,0 @@
-lib.print.info('core/client.lua loaded!')

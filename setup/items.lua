@@ -54,4 +54,4 @@ return {
         stack = true,
         description = 'Thin paper used to roll cannabis into a joint.'
     }
-};
+}

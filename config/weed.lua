@@ -62,4 +62,4 @@ return {
             growthTime = 180
         }
     }
-};
+}
